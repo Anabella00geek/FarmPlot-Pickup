@@ -1,0 +1,10 @@
+<configs>
+
+	<set xpath="/blocks/block[@name='farmPlotBlock']/drop[@event='Harvest'][@name='resourceClayLump']/@count">0</set>
+	<set xpath="/blocks/block[@name='farmPlotBlock']/drop[@event='Harvest'][@name='resourcePotassiumNitratePowder']/@count">0</set>
+	
+    <setattribute xpath="/blocks/block[@name='farmPlotBlock']/drop[@event='Destroy']" name="name">farmPlotBlockPlayer</setattribute>
+		
+	<set xpath="/blocks/block[@name='farmPlotBlock']/drop[@event='Destroy']/@count">1</set>
+		
+</configs>

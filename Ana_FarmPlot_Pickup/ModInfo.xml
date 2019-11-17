@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Ana_FarmPlot_Pickup" />
+		<Description value="Allows player to once again pickup POI farm plots by digging them up.  A18.1 b8" />
+		<Author value="Anabella" />
+		<Version value="1.0.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
